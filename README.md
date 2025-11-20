@@ -1,5 +1,5 @@
 # Hi there, I'm Charlie Say 👋
-Im a software engineer from Manchester UK working for ITV
+Im a Senior engineer from Manchester UK working for Typeform
 
 # Contacts & Socials
 🐦 [Twitter](https://twitter.com/CharlieSay_)<br />
